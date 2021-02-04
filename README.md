@@ -1,1 +1,2 @@
-# Arduino Pulse Generator\nGenerate 500ns pulses at variable PRF.
+# Arduino Pulse Generator
+Generate 500ns pulses at variable PRF.
